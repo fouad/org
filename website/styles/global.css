@@ -204,10 +204,13 @@ input[type='email'] {
 }
 
 table {
-  display: block;
-  max-width: fit-content;
   overflow-x: auto;
   white-space: nowrap;
+}
+
+table th:last-child,
+table td:last-child {
+  text-align: right;
 }
 
 .shadow-rainbow {
