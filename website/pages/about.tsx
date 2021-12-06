@@ -128,20 +128,20 @@ const workHistory: ExpandableItem[] = [
   {
     title: 'Segment · Engineer',
     dates: ['November 2016', 'November 2017'],
-    desc: 'Building the future of security',
+    desc: 'Designing more informed product experiences',
     expanded: `Led the product and engineering development for Segment Personas, enabling customers to resolve user actions into profiles.`,
   },
   {
     title: 'VotePlz · Co-founder',
     dates: ['August 2016', 'November 2016'],
-    desc: 'We helped one million people vote',
+    desc: 'Helping one million people vote',
     expanded: `Started a nonpartisan nonprofit focused on building the easiest way for young people to register and get out to vote. Helped 1 million people vote in 2016.`,
   },
   {
     title: 'StrongIntro · Co-founder + CEO',
     dates: ['December 2014', 'August 2016'],
-    desc: 'We helped one million people vote',
-    expanded: `Started a referral recruiting company and ran product, sales and engineering. Went through the inaugural Y Combinator Fellowship program and YC W16.`,
+    desc: 'Connecting talent to opportunities in their network',
+    expanded: `Co-founded a referral recruiting company and ran product, sales and engineering. Went through the inaugural Y Combinator Fellowship program and YC W16.`,
   },
 ]
 
