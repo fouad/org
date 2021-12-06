@@ -230,8 +230,5 @@ function ExpandableItemList({ items = workHistory }) {
 }
 
 function isExpandable(item: ExpandableItem): boolean {
-  return React.useMemo(
-    () => item.expanded && item.expanded !== 'To be announced',
-    [item.expanded]
-  )
+  return item.expanded && item.expanded !== 'To be announced'
 }
