@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/30",
+      "destination": "https://calendly.com/indent-fouad/30min"
+    },
+    {
+      "source": "/15",
+      "destination": "https://calendly.com/indent-fouad/15min"
+    },
+  ]
+}

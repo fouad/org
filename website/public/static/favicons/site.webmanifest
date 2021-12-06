@@ -1,0 +1,13 @@
+{
+  "name": "Fouad Matin",
+  "short_name": "fouad.org",
+  "description": "Welcome to my website.",
+  "icons": [],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "start_url": "../../index.html"
+}
