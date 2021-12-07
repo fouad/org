@@ -42,7 +42,7 @@ export default function Container(props) {
     name,
     title: name,
     description: `It's crazy that Google let's us just write anything here.`,
-    image: 'https://fouad.org/static/images/banner.png',
+    image: 'https://fouad.org/static/images/website-banner.png',
     type: 'website',
     ...customMeta,
   }
